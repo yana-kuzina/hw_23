@@ -2,7 +2,6 @@ import { useState } from "react";
 
 import Title from "./components/Title";
 
-import logo from "./logo.svg";
 import "./App.css";
 
 // const formatName = (user) => {
