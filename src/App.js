@@ -1,8 +1,9 @@
-import logo from "./logo.svg";
-import "./App.css";
+import { useState } from "react";
+
 import Title from "./components/Title";
 
-import { useState } from "react";
+import logo from "./logo.svg";
+import "./App.css";
 
 // const formatName = (user) => {
 //   return `My name is ${user.firstName} ${user.lastName}`;
